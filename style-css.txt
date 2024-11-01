@@ -1,0 +1,35 @@
+.myArchive {
+     line-height:18px;
+     margin:1.5em 0;
+     color:#555555;
+     font-size:14px;
+ }
+ .myArchive h2 {
+     font-size:16px;
+     margin:0 0 10px;
+     font-weight:bold;
+ }
+ .myArchive ul {
+     line-height:21px;
+     padding:0 0 0 2em;
+ }
+ .myArchive ul li {
+     background:none;
+     list-style-type:disc;
+     margin:0;
+     padding-left:10px;
+ }
+ .myArchive a {
+     color:#2970A6;
+     outline:medium none;
+     text-decoration:none;
+ }
+ .myArchive a:hover {
+     text-decoration:underline;
+ }
+ .myArchive ul li ul {
+     margin:10px 0;
+ }
+ .myArchive ul li ul li {
+     list-style-type:circle;
+ }
